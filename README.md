@@ -22,6 +22,7 @@
 
 ## Level 2 Term 2
 - [CSE 208 | Data Structures and Algorithms II Sessional](https://github.com/aaniksahaa/CSE-208-Data-Structure-and-Algorithms-II-Sessional)
+- [CSE 216 | Database Sessional](https://github.com/aaniksahaa/CSE-216-Database-Sessional)
 - [CSE 216 | Database Sessional - Project](https://github.com/aaniksahaa/Tripify-Database-Term-Project-L2T2)
 
 ## Level 3 Term 1
