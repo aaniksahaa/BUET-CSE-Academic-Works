@@ -1,6 +1,6 @@
 # BUET-CSE-Academic-Works
 
-## A Little Try to ease my juniors Learning Process
+## A Little Try to ease my juniors' Learning Process
 https://www.youtube.com/playlist?list=PLIu3y1QiGL6WHWdHxkCeq8qAnblWKp3XF
 
 ## Table of Contents:
