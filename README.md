@@ -1,5 +1,8 @@
 # BUET-CSE-Academic-Works
 
+## A Little Try to ease my juniors Learning Process
+https://www.youtube.com/playlist?list=PLIu3y1QiGL6WHWdHxkCeq8qAnblWKp3XF
+
 ## Table of Contents:
  - [Level 1 Term 1](#level-1-term-1)
  - [Level 1 Term 2](#level-1-term-2)
