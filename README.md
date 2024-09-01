@@ -1,8 +1,5 @@
 # BUET-CSE-Academic-Works
 
-## Chronicles
-https://www.youtube.com/playlist?list=PLIu3y1QiGL6WHWdHxkCeq8qAnblWKp3XF
-
 ## Table of Contents:
  - [Level 1 Term 1](#level-1-term-1)
  - [Level 1 Term 2](#level-1-term-2)
@@ -12,6 +9,7 @@ https://www.youtube.com/playlist?list=PLIu3y1QiGL6WHWdHxkCeq8qAnblWKp3XF
  - [Level 3 Term 2](#level-3-term-2)
  - [Level 4 Term 1](#level-4-term-1)
  - [Level 4 Term 2](#level-4-term-2)
+ - [Chronicles](#chronicles)
 
 ## Level 1 Term 1
 - [CSE 102 | Structured Programming Language Sessional - Project](https://github.com/aaniksahaa/TinkerCode-CPP-iGraphics-Term-Project-L1T1)
@@ -43,3 +41,6 @@ Keep me in your prayers
 
 ## Level 4 Term 2
 Keep me in your prayers
+
+## Chronicles
+https://www.youtube.com/playlist?list=PLIu3y1QiGL6WHWdHxkCeq8qAnblWKp3XF
