@@ -33,7 +33,7 @@
 - [CSE 310 | Compiler Sessional](https://github.com/aaniksahaa/CSE-310-Compiler-Sessional)
 - [CSE 316 | Microprocessors, Microcontrollers, and Embedded Systems Sessional](https://github.com/aaniksahaa/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems-Sessional)
 
-## Level 3 Term 2  CSE-318-Artificial_Intelligence-Sessional
+## Level 3 Term 2
 - [CSE 314 | Operating Systems Sessional](https://github.com/aaniksahaa/CSE-314-Operating-Systems-Sessional)
 - [CSE 318 | Artificial_Intelligence Sessional](https://github.com/aaniksahaa/CSE-318-Artificial_Intelligence-Sessional)
 - [CSE 322 | Networks-Sessional](https://github.com/aaniksahaa/CSE-322-Networks-Sessional)
