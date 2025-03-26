@@ -33,8 +33,11 @@
 - [CSE 310 | Compiler Sessional](https://github.com/aaniksahaa/CSE-310-Compiler-Sessional)
 - [CSE 316 | Microprocessors, Microcontrollers, and Embedded Systems Sessional](https://github.com/aaniksahaa/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems-Sessional)
 
-## Level 3 Term 2
-Keep me in your prayers
+## Level 3 Term 2  CSE-318-Artificial_Intelligence-Sessional
+- [CSE 314 | Operating Systems Sessional](https://github.com/aaniksahaa/CSE-314-Operating-Systems-Sessional)
+- [CSE 318 | Artificial_Intelligence Sessional](https://github.com/aaniksahaa/CSE-318-Artificial_Intelligence-Sessional)
+- [CSE 322 | Networks-Sessional](https://github.com/aaniksahaa/CSE-322-Networks-Sessional)
+- [CSE 326 | Information and System Design Sessional](https://github.com/aaniksahaa/CSE-326-Information-and-System-Design-Sessional)
 
 ## Level 4 Term 1
 Keep me in your prayers
