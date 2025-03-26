@@ -35,8 +35,8 @@
 
 ## Level 3 Term 2
 - [CSE 314 | Operating Systems Sessional](https://github.com/aaniksahaa/CSE-314-Operating-Systems-Sessional)
-- [CSE 318 | Artificial_Intelligence Sessional](https://github.com/aaniksahaa/CSE-318-Artificial_Intelligence-Sessional)
-- [CSE 322 | Networks-Sessional](https://github.com/aaniksahaa/CSE-322-Networks-Sessional)
+- [CSE 318 | Artificial Intelligence Sessional](https://github.com/aaniksahaa/CSE-318-Artificial_Intelligence-Sessional)
+- [CSE 322 | Networks Sessional](https://github.com/aaniksahaa/CSE-322-Networks-Sessional)
 - [CSE 326 | Information and System Design Sessional](https://github.com/aaniksahaa/CSE-326-Information-and-System-Design-Sessional)
 
 ## Level 4 Term 1
