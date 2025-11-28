@@ -40,7 +40,7 @@
 - [CSE 326 | Information and System Design Sessional](https://github.com/aaniksahaa/CSE-326-Information-and-System-Design-Sessional)
 
 ## Level 4 Term 1
-Keep me in your prayers
+- [CSE 410 | Computer Graphics Sessional](https://github.com/aaniksahaa/CSE-410-Computer-Graphics-Sessional)
 
 ## Level 4 Term 2
 Keep me in your prayers
