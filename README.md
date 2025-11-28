@@ -46,6 +46,3 @@
 
 ## Level 4 Term 2
 Keep me in your prayers
-
-## Chronicles
-https://www.youtube.com/playlist?list=PLIu3y1QiGL6WHWdHxkCeq8qAnblWKp3XF
