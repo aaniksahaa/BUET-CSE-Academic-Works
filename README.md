@@ -40,6 +40,7 @@
 - [CSE 326 | Information and System Design Sessional](https://github.com/aaniksahaa/CSE-326-Information-and-System-Design-Sessional)
 
 ## Level 4 Term 1
+- [CSE 408 | Software Development Sessional](https://github.com/aaniksahaa/CSE-408-Software-Development-Sessional)
 - [CSE 410 | Computer Graphics Sessional](https://github.com/aaniksahaa/CSE-410-Computer-Graphics-Sessional)
 
 ## Level 4 Term 2
